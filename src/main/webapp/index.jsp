@@ -12,7 +12,14 @@ div {
 	border: 1px solid #bcbcbc;
 }
 a {
-	text-decoration:none 
+	text-decoration:none;
+	color:whiteblack; 
+}
+
+a:hover{
+	color: rgba(255, 255, 255, 0.85);
+	box-shadow: rgba(30, 22, 54, 0.7) 0 0px
+	0px 40px inset;
 }
 
 .b {
@@ -66,8 +73,7 @@ footer{
     <li>Age:28세</li>
     <li>Email:tkdudgns95@naver.com</li>
     <li>Tel:010-2886-1952</li>
-    <a href = "https://github.com/tkdudgns95" target='_blank'text-decoration:none;> 제 깃허브 주소입니다.</a>
-    
+    <a href = "https://github.com/tkdudgns95" target='_blank'> 제 깃허브 주소입니다.</a>
  					</div>
 				</div>	
 			</div>	
