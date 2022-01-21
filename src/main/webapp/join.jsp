@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>저의 취미입니다</title>
+<title>저의 성격, 추구하는 가치</title>
 </head>
 <body>
 캠핑
