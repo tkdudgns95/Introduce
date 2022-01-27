@@ -17,10 +17,12 @@ a:hover{
 	0px 40px inset;
 }
 
-.b {
+body {
 	
 	background-image: url("room2.PNG");
-	background-repeat: no-repeat;
+	 -webkit-background-size: cover;
+  	-moz-background-size: cover;
+ 	 -o-background-size: cover;
 	background-size:cover;
 	
 
