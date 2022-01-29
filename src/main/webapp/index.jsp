@@ -92,7 +92,7 @@ input#menu:checked + nav#main_nav{
 <div id="main_nav">
 	<ul>
 		<li><a href="personal.jsp">성격</a></li><br><br>
-		<li><a href="practiceC.jsp">가치관</a></li><br><br>
+		<li><a href="values.jsp">가치관</a></li><br><br>
 		<li><a href="#">취미</a></li><br><br>
 		<li><a href="#">마지막으로</a></li><br><br>
 	</ul>
