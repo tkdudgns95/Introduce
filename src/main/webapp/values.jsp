@@ -10,7 +10,7 @@
 	@import url(//fonts.googleapis.com/earlyaccess/nanumpenscript.css);
 body {
 	
-	background-image: url("valueimage.PNG");
+	background-image: url("image/valueimage.PNG");
 	 -webkit-background-size: cover;
   	-moz-background-size: cover;
  	 -o-background-size: cover;
@@ -55,7 +55,7 @@ a   {
 	저는 이 신뢰라는 것을 쌓고자 정직하고 성실하게 생활하려 노력했고, 이것은 저 뿐만 아니라 연을 맺은 사람들에게 <br>
 	긍정적 영향을 줄 수 있는 데에 높은 가치를 두고 있습니다. <br>
 	</c>
-	<img src="trust.PNG"> <br>
+	<img src="image/trust.PNG"> <br>
 
 
 	<a>포기하지 않기</a> <br>
@@ -65,7 +65,7 @@ a   {
 	아쉬움이 많아지는 삶으로 남게 되는 비극에 직면할 수도 있다는 생각이 들기 때문입니다. <br>
 	목적지가 있는 곳 까지 달리려면 많은 시간과 노력이 필요하듯이, 지쳐서 돌아가기 보다는 <br>
 	잠시 숨을 고르고 걸으며 지친 사람의 손을 잡아주고 등을 밀어줄 수 있는 사람이 되고 싶습니다.<br>
-	<img src="giveup.PNG"> <br>
+	<img src="image/giveup.PNG"> <br>
 	</c>
 	
 	<a>꾸준한 성장</a> <br>
@@ -74,7 +74,7 @@ a   {
 	성장은 스스로 부족함을 알고 필요한 것을 찾아서 알아감으로써 성장을 이룰 수 있다고 생각합니다. <br>
 	앞으로 인연을 맺을 사람들을 통해 성장을 하고, 저 또한 누군가에게 힘을 실어줄 수 있는 지금보다 더 성장한 사람이 되길 희망합니다. <br>		
 	</c>
-	<img src="growth.PNG"> <br>
+	<img src="image/growth.PNG"> <br>
 
 </div>
 

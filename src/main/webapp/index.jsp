@@ -19,7 +19,7 @@ a:hover{
 
 body {
 	
-	background-image: url("room2.PNG");
+	background-image: url("image/room2.PNG");
 	 -webkit-background-size: cover;
   	-moz-background-size: cover;
  	 -o-background-size: cover;
@@ -104,7 +104,7 @@ input#menu:checked + nav#main_nav{
 	<strong>Introduce me</strong>
 	
 			<div class="face">
-		<img src="face.PNG">
+		<img src="image/face.PNG">
 		
 	<li>Name:사영훈</li>
     <li>Age:28세</li>

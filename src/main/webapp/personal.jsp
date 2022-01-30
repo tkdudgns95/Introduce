@@ -62,7 +62,7 @@
 <a>My MBTI</a> <br>
 <button id="btn_toggle">제MBTI는...</button>
 <div id="Toggle" style="display:none";>
-<img src="mbti.PNG">
+<img src="image/mbti.PNG">
 <a href = "https://blog.naver.com/geosangni/222261015495" target='_blank'>ISFJ 특징 보러가기</a>
 </div>
 </body>
