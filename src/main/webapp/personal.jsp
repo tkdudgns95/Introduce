@@ -8,7 +8,14 @@
 </head>
 <style>
 @import url(//fonts.googleapis.com/earlyaccess/nanumpenscript.css);
-
+#menu a{
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 30px;
+  color: #58595b;
+  text-decoration: none;
+  font-family: Helvetica,Arial,Sans-Serif;
+}
 	c{
 		font-family: 'Nanum Pen Script', cursive;
 		font-size: 30px;
@@ -48,6 +55,13 @@
 
 </style>
 <body style="background-color:orange;">
+<div id="menu">
+    <a href="newindex.jsp"><b>PROFILE</b></a>
+    <a href="personal.jsp">PERSONALITY</a>
+    <a href="values.jsp">VALUES</a>
+    <a href="education.html">HOBBY</a>
+    <a href="portfolio.html">PORTFOLIO</a>
+  </div>
 <p class="s1">My Personality</p>
 <a>Advantage</a> <br>
 <c>대부분의 상황에서 솔직한 편입니다. 그에 따라 사람간의 신뢰가 두텁다고 생각합니다.<br> 

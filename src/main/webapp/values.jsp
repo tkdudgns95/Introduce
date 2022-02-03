@@ -18,7 +18,14 @@ body {
 	
 
 }
-
+#menu a{
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 30px;
+  color: #58595b;
+  text-decoration: none;
+  font-family: Helvetica,Arial,Sans-Serif;
+}
 p 	{
 		text-align:center;
 	    font-family: "Arial Black", sans-serif;
@@ -46,6 +53,13 @@ a   {
 
 </style>
 <body>
+<div id="menu">
+    <a href="newindex.jsp"><b>PROFILE</b></a>
+    <a href="personal.jsp">PERSONALITY</a>
+    <a href="values.jsp">VALUES</a>
+    <a href="education.html">HOBBY</a>
+    <a href="portfolio.html">PORTFOLIO</a>
+  </div>
 <p class="s1">My Values</p>
 
 <div class="value1">
