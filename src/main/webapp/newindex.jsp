@@ -31,10 +31,14 @@ a:hover{
 	0px 40px inset;
    }
    
- footer {
-  	position: absolute;
-  	bottom : 0;
-  }
+ 
+  
+  c	{
+  		
+		font-family: 'Nanum Pen Script', cursive;
+		font-size: 50px;
+	}
+
   .list{
     width:100%; 
     height:100vh;
@@ -60,48 +64,33 @@ a:hover{
 
 </style>
 <body style="background-color:#BBDEFB;">
+
 <div id="menu">
     <a href="newindex.jsp"><b>PROFILE</b></a>
     <a href="personal.jsp">PERSONALITY</a>
     <a href="values.jsp">VALUES</a>
-    <a href="education.html">HOBBY</a>
+    <a href="hobby.jsp">HOBBY</a>
     <a href="portfolio.html">PORTFOLIO</a>
+  </div>
+  
+  <div style="text-align:center">
+  <c>My Introduce Page!</c>
   </div>
   
 <div class="list">
       <div class="one">
         <span class="profile"><img src="image/face.PNG" width="550px;" height="550px" alt=""/></span> 
-        <h3><strong>안녕하세요! 저를 소개하는 웹사이트 입니다.</strong> <br>상단의 메뉴를 클릭하시면 저에 대한 페이지로 이동합니다.</h3>
+        <h3><strong>안녕하세요! 저를 소개하는 웹사이트 입니다.</strong> <br>상단의 메뉴를 클릭하시면 저에 대한 페이지로 이동합니다.<br><br>
+        	<strong><i class="far fa-address-book"></i>사영훈(28세)</strong><br>
+        	<strong><i class="fas fa-location-arrow"></i>서울특별시 강서구 마곡동 거주</strong><br>
+        	<strong><i class="fas fa-mobile-alt"></i>010-2886-1952</strong><br>
+        	<strong><i class="fab fa-neos"></i>tkdudgns95@naver.com</strong><br>
+        	<strong>My Github</strong>
+        	<button
+        		onclick="window.open('https://github.com/tkdudgns95')"> <i class="fab fa-github fa-3x"></i>
+        	</button>    	
+        </h3>
       </div>
   </div> 
-  
-<div class="footer">
-    <h1 style="color: navy; text-shadow: none">contact</h1>
-    <div class="footerbtn">
-      <button id="mail_btn" onclick="window.open('https://naver.com/')">
-   
-          <i class="far fa-paper-plane fa-3x"></i
-        ></a>
-      </button>
-      <button
-        id="git_btn"
-        onclick="window.open('https://github.com/tkdudgns95')"
-      >
-        <i class="fab fa-github fa-3x"></i>
-      </button>
-      <button
-        id="velog_btn"
-        onclick="window.open('https://velog.io/@thisisemptyyy')"
-      >
-        <i class="fas fa-code fa-3x"></i>
-      </button>
-      <button
-        id="insta_btn"
-        onclick="window.open('https://www.instagram.com/cr_bin_/')"
-      >
-        <i class="fab fa-instagram fa-3x"></i>
-      </button>
-    </div>
-  </div>
 </body>
 </html>

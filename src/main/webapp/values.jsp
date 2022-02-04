@@ -57,7 +57,7 @@ a   {
     <a href="newindex.jsp"><b>PROFILE</b></a>
     <a href="personal.jsp">PERSONALITY</a>
     <a href="values.jsp">VALUES</a>
-    <a href="education.html">HOBBY</a>
+    <a href="hobby.jsp">HOBBY</a>
     <a href="portfolio.html">PORTFOLIO</a>
   </div>
 <p class="s1">My Values</p>
