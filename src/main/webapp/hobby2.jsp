@@ -28,19 +28,6 @@ p 	{
 	}
 .s1 { text-shadow: 2px 2px 4px gray; }
 
-a {
-		text-align:left;
-	    font-family: "Arial Black", sans-serif;
-        font-size: 36px;
-        font-weight: bold;
-        color: #ffffff;
-	}
-
-c	{
-		font-family: 'Nanum Pen Script', cursive;
-		font-size: 30px;
-	}
-
       
 .swiper-container {
 	height:420px; 
@@ -72,25 +59,6 @@ c	{
   </div>
   
   <p class="s1">My Hobby</p>
-  <a>Game</a> <br>
-  <img src="image/LOL.PNG" width="200" height="200">
-  <img src="image/lostark.PNG" width="200" height="200">
-  <img src="image/steam.PNG" width="200" height="200"> 
-  <img src="image/battlenet.PNG" width="200" height="200"> <br>
-  
-  
-  
-  <a>Movie</a> <br>
-  <img src="image/netflix.PNG" width="200" height="200">
-  <img src="image/watcha.PNG" width="200" height="200">
-  <img src="image/disney.PNG" width="200" height="200">
-  <img src="image/tving.PNG" width="200" height="200"> <br>
-  
-  <a>Exercise</a> <br>
-  
-  
-  
-  
   
 <!-- 클래스명은 변경하면 안 됨 -->
 <div class="swiper-container">
