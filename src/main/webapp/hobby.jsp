@@ -37,6 +37,7 @@ a {
 	}
 
 c	{
+		text-align:center;
 		font-family: 'Nanum Pen Script', cursive;
 		font-size: 30px;
 	}
@@ -72,26 +73,26 @@ c	{
   </div>
   
   <p class="s1">My Hobby</p>
-  <a>Game</a> <br>
+  <a>Play Games!</a> <br>
   <img src="image/LOL.PNG" width="200" height="200">
   <img src="image/lostark.PNG" width="200" height="200">
   <img src="image/steam.PNG" width="200" height="200"> 
-  <img src="image/battlenet.PNG" width="200" height="200"> <br>
+  <img src="image/battlenet.PNG" width="200" height="200"><br>
   
   
-  
-  <a>Movie</a> <br>
+  <a>Watch Movies</a> <br>
   <img src="image/netflix.PNG" width="200" height="200">
   <img src="image/watcha.PNG" width="200" height="200">
   <img src="image/disney.PNG" width="200" height="200">
   <img src="image/tving.PNG" width="200" height="200"> <br>
   
-  <a>Exercise</a> <br>
+  <a>Do Exercise</a> <br>
+  <img src="image/walk.PNG" width="300" height="300">
+  <img src="image/bike.PNG" width="300" height="300">
+  <br>
   
-  
-  
-  
-  
+  <a>Go Travel</a> <br> 
+   
 <!-- 클래스명은 변경하면 안 됨 -->
 <div class="swiper-container">
 	<div class="swiper-wrapper">
