@@ -66,11 +66,11 @@ a:hover{
 <body style="background-color:#BBDEFB;">
 
 <div id="menu">
-    <a href="newindex.jsp"><b>PROFILE</b></a>
+    <a href="newindex.jsp">PROFILE</a>
     <a href="personal.jsp">PERSONALITY</a>
     <a href="values.jsp">VALUES</a>
     <a href="hobby.jsp">HOBBY</a>
-    <a href="portfolio.html">PORTFOLIO</a>
+    <a href="portfolio.jsp">PORTFOLIO</a>
   </div>
   
   <div style="text-align:center">

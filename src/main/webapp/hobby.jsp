@@ -35,6 +35,11 @@ a {
         font-weight: bold;
         color: #ffffff;
 	}
+	a:hover{
+	color: rgba(255, 255, 255, 0.85);
+	box-shadow: rgba(30, 22, 54, 0.7) 0 0px
+	0px 40px inset;
+   }
 
 c	{
 		text-align:center;
@@ -65,11 +70,11 @@ c	{
 
 <body style="background-color:lightblue;">
 <div id="menu">
-    <a href="newindex.jsp"><b>PROFILE</b></a>
+    <a href="newindex.jsp">PROFILE</a>
     <a href="personal.jsp">PERSONALITY</a>
     <a href="values.jsp">VALUES</a>
     <a href="hobby.jsp">HOBBY</a>
-    <a href="portfolio.html">PORTFOLIO</a>
+    <a href="portfolio.jsp">PORTFOLIO</a>
   </div>
   
   <p class="s1">My Hobby</p>
@@ -77,19 +82,19 @@ c	{
   <img src="image/LOL.PNG" width="200" height="200">
   <img src="image/lostark.PNG" width="200" height="200">
   <img src="image/steam.PNG" width="200" height="200"> 
-  <img src="image/battlenet.PNG" width="200" height="200"><br>
+  <img src="image/battlenet.PNG" width="200" height="200"><br><br>
   
   
   <a>Watch Movies</a> <br>
   <img src="image/netflix.PNG" width="200" height="200">
   <img src="image/watcha.PNG" width="200" height="200">
   <img src="image/disney.PNG" width="200" height="200">
-  <img src="image/tving.PNG" width="200" height="200"> <br>
+  <img src="image/tving.PNG" width="200" height="200"> <br><br>
   
   <a>Do Exercise</a> <br>
   <img src="image/walk.PNG" width="300" height="300">
   <img src="image/bike.PNG" width="300" height="300">
-  <br>
+  <br><br>
   
   <a>Go Travel</a> <br> 
    
