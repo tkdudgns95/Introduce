@@ -40,6 +40,14 @@ a {
 	box-shadow: rgba(30, 22, 54, 0.7) 0 0px
 	0px 40px inset;
    }
+   
+   b {
+   text-align:left;
+	    font-family: "Arial Black", sans-serif;
+        font-size: 36px;
+        font-weight: bold;
+        color: #ffffff;
+   }
 
 c	{
 		text-align:center;
@@ -62,10 +70,11 @@ c	{
 }
 .swiper-slide img {
 	box-shadow:0 0 5px #555;
-	max-width:100%; /* 이미지 최대너비를 제한, 슬라이드에 이미지가 여러개가 보여질때 필요 */
+	width:350px;
+	height:350px; /* 이미지 최대너비를 제한, 슬라이드에 이미지가 여러개가 보여질때 필요 */
 	/* 이 예제에서 필요해서 설정했습니다. 상황에따라 다를 수 있습니다. */
 }
-
+<!-- max-width:100%; -->
 </style>
 
 <body style="background-color:lightblue;">
@@ -74,7 +83,7 @@ c	{
     <a href="personal.jsp">PERSONALITY</a>
     <a href="values.jsp">VALUES</a>
     <a href="hobby.jsp">HOBBY</a>
-    <a href="portfolio.jsp">PORTFOLIO</a>
+    <a href="portfolio.jsp">PROJECT</a>
   </div>
   
   <p class="s1">My Hobby</p>
@@ -101,22 +110,16 @@ c	{
 <!-- 클래스명은 변경하면 안 됨 -->
 <div class="swiper-container">
 	<div class="swiper-wrapper">
-		<div class="swiper-slide"><img src="http://ktsmemo.cdn3.cafe24.com/p/0406.jpg"></div>
-		<div class="swiper-slide"><img src="http://ktsmemo.cdn3.cafe24.com/p/0179.jpg"></div>
-		<div class="swiper-slide"><img src="http://ktsmemo.cdn3.cafe24.com/p/0336.jpg"></div>
-		<div class="swiper-slide"><img src="http://oldmidi.cdn3.cafe24.com/p/0109.jpg"></div>
-		<div class="swiper-slide"><img src="http://ktsmemo.cdn3.cafe24.com/p/0026.jpg"></div>
-		<div class="swiper-slide"><img src="http://oldmidi.cdn3.cafe24.com/p/0030.jpg"></div>
-		<div class="swiper-slide"><img src="http://oldmidi.cdn3.cafe24.com/p/0208.jpg"></div>
-		<div class="swiper-slide"><img src="http://oldmidi.cdn3.cafe24.com/p/0064.jpg"></div>
-		<div class="swiper-slide"><img src="http://ktsmemo.cdn3.cafe24.com/p/0814.jpg"></div>
-		<div class="swiper-slide"><img src="http://ktsmemo.cdn3.cafe24.com/p/0344.jpg"></div>
-		<div class="swiper-slide"><img src="http://ktsmemo.cdn3.cafe24.com/p/0191.jpg"></div>
-		<div class="swiper-slide"><img src="http://oldmidi.cdn3.cafe24.com/p/0287.jpg"></div>
-		<div class="swiper-slide"><img src="http://ktsmemo.cdn3.cafe24.com/p/0220.jpg"></div>
-		<div class="swiper-slide"><img src="https://ktsmemo.cafe24.com/p/0623.jpg"></div>
-		<div class="swiper-slide"><img src="http://oldmidi.cdn3.cafe24.com/p/0665.jpg"></div>
-		<div class="swiper-slide" style="font-size:50pt;">- 끝 -</div>
+		<div class="swiper-slide"><img src="image/photo1.jpg"></div>
+		<div class="swiper-slide"><img src="image/photo2.jpg"></div>
+		<div class="swiper-slide"><img src="image/photo3.jpg"></div>
+		<div class="swiper-slide"><img src="image/photo4.jpg"></div>
+		<div class="swiper-slide"><img src="image/photo5.jpg"></div>
+		<div class="swiper-slide"><img src="image/photo6.jpg"></div>
+		<div class="swiper-slide"><img src="image/photo7.jpg"></div>
+		<div class="swiper-slide"><img src="image/photo8.jpg"></div>
+		<div class="swiper-slide"><img src="image/photo9.jpg"></div>
+		<div class="swiper-slide"><img src="image/photo10.jpg"></div>
 	</div>
 
 	<!-- 네비게이션 -->

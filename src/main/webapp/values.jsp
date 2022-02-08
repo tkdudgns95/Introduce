@@ -70,7 +70,7 @@ b   {
     <a href="personal.jsp">PERSONALITY</a>
     <a href="values.jsp">VALUES</a>
     <a href="hobby.jsp">HOBBY</a>
-    <a href="portfolio.jsp">PORTFOLIO</a>
+    <a href="portfolio.jsp">PROJECT</a>
   </div>
 <p class="s1">My Values</p>
 

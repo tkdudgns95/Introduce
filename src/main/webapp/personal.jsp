@@ -76,7 +76,7 @@
     <a href="personal.jsp">PERSONALITY</a>
     <a href="values.jsp">VALUES</a>
     <a href="hobby.jsp">HOBBY</a>
-    <a href="portfolio.jsp">PORTFOLIO</a>
+    <a href="portfolio.jsp">PROJECT</a>
   </div>
   
 <p class="s1">My Personality</p>
@@ -92,11 +92,14 @@
 낯을 가리는 편이라 조용한 편입니다. 대체로 수동적입니다.<br>
 </c> <br>
 <b>My MBTI</b> <br>
+
 <button id="btn_toggle">제MBTI는...</button>
+
 <div id="Toggle" style="display:none";>
 <img src="image/mbti.PNG">
 <a href = "https://blog.naver.com/geosangni/222261015495" target='_blank'>ISFJ 특징 보러가기</a>
 </div>
+
 </body>
 <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
 <script>
